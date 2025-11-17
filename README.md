@@ -7,7 +7,7 @@
 
 
 
-[![Hex.pm](https://img.shields.io/hexpm/v/machete.svg?style=flat&color=blue)](https://hex.pm/packages/machete)
+
 
 Machete provides ergonomic match operators to help make your ExUnit tests more literate
 
