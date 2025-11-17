@@ -63,6 +63,7 @@ combination of literals, variables, or parametrically defined matchers
 When your matches fail, Machete provides useful error messages in ExUnit that point you directly
 at any failing matches using [jq syntax](https://stedolan.github.io/jq/manual/#Basicfilters)
 
+
 ## Matching literals & variables
 
 Machete matches directly against literals & variables. The following examples will all match:
