@@ -19,6 +19,8 @@ The easiest way to explain Machete is to show it in action:
 
 
 
+
+
 ```elixir
 defmodule ExampleTest do
   use ExUnit.Case
