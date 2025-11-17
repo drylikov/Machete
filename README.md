@@ -5,7 +5,7 @@
 
 # Machete
 
-[![Build Status](https://github.com/drylikov/machete/workflows/Elixir%20CI/badge.svg)](https://github.com/drylikov/machete/actions)
+
 [![Docs](https://img.shields.io/badge/api-docs-green.svg?style=flat)](https://hexdocs.pm/machete)
 [![Hex.pm](https://img.shields.io/hexpm/v/machete.svg?style=flat&color=blue)](https://hex.pm/packages/machete)
 
